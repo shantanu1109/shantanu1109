@@ -32,6 +32,12 @@
   <a href = " https://www.mysql.com/ " target = "blank">
   <img align = "center" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" alt = "MySQL" height = "40" width = "40"/>
   </a>
+  <a href = " https://www.tensorflow.org/ " target = "blank">
+  <img align = "center" src="https://img.icons8.com/color/96/000000/tensorflow.png" alt = "Tensorflow" height = "40" width = "40"/>
+  </a>
+  <a href = " https://www.tensorflow.org/ " target = "blank">
+  <img align = "center" src="https://img.icons8.com/color/96/000000/tensorflow.png" alt = "Tensorflow" height = "40" width = "40"/>
+  </a>
 </p>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanu1109&show_icons=true&locale=en&layout=compact" alt="shantanu1109" /></p>
