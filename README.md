@@ -17,6 +17,11 @@
   </a>                                                                 
 </p>            
 
+<h3 align = "left"> Languages and Tools: </h3>
+<p align = "left">
+  <a href = "
+</p>  
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanu1109&show_icons=true&locale=en&layout=compact" alt="shantanu1109" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanu1109&show_icons=true&locale=en" alt="shantanu1109" /></p>
