@@ -3,3 +3,10 @@
 
 - 🌱 I’m currently learning ** Data Analysis, Data Science, Tableau **
 - 📫 How to reach me ** umranishantanu@gmail.com **
+
+<h3 align = "left"> Connect with me: </h3>
+<p align = "left">
+  <a href = "https://linkedln.com/in/shantanu-umrani-4137a1168"></a>
+  <a href = "https://instagram.com/yo_soy_shantanu" ></a>
+  <a href = "https://twitter.com/ShantanuUmrani"></a>
+</p>            
