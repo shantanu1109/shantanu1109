@@ -13,7 +13,7 @@
     <img align = "center" src = ""
   </a>
   <a href = "https://twitter.com/ShantanuUmrani" target = "blank">
-    <img align = "center" src="https://img.icons8.com/fluency/96/000000/twitter.png" alt = "ShantanuUmrani" height = "30" width = "40"/>
+    <img align = "center" src="https://img.icons8.com/fluency/96/000000/twitter.png" alt = "ShantanuUmrani" height = "40" width = "40"/>
   </a>
                                                                  
 </p>            
