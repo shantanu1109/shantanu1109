@@ -6,7 +6,14 @@
 
 <h3 align = "left"> Connect with me: </h3>
 <p align = "left">
-  <a href = "https://linkedln.com/in/shantanu-umrani-4137a1168" target = "blank"></a>
-  <a href = "https://instagram.com/yo_soy_shantanu" target = "blank"></a>
-  <a href = "https://twitter.com/ShantanuUmrani" target = "blank"></a>
+  <a href = "https://linkedln.com/in/shantanu-umrani-4137a1168" target = "blank">
+    <img align = "center" src = ""
+  </a>
+  <a href = "https://instagram.com/yo_soy_shantanu" target = "blank">
+    <img align = "center" src = ""
+  </a>
+  <a href = "https://twitter.com/ShantanuUmrani" target = "blank">
+    <img align = "center" src="https://img.icons8.com/fluency/96/000000/twitter.png" alt = "ShantanuUmrani" height = "30" width = "40"/>
+  </a>
+                                                                 
 </p>            
