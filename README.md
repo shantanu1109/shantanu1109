@@ -19,7 +19,8 @@
 
 <h3 align = "left"> Languages and Tools: </h3>
 <p align = "left">
-  <a href = "
+  <a href = " https://www.python.org/" target = "blank">
+  <img align = "center" src="https://img.icons8.com/color/96/000000/python--v1.png" alt = "python" height = "40" width = "40"/>
 </p>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanu1109&show_icons=true&locale=en&layout=compact" alt="shantanu1109" /></p>
