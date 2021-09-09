@@ -6,8 +6,8 @@
 
 <h3 align = "left"> Connect with me: </h3>
 <p align = "left">
-  <a href = "https://linkedln.com/in/shantanu-umrani-4137a1168" target = "blank">
-    <img align = "center" src = "https://img.icons8.com/fluency/96/000000/linkedin.png" alt = "shantanu-umrani-4137a1168" height = "40" width = "40"/>
+  <a href = "https://linkedln.com/in/shantanu-umrani" target = "blank">
+    <img align = "center" src = "https://img.icons8.com/fluency/96/000000/linkedin.png" alt = "shantanu-umrani" height = "40" width = "40"/>
   </a>
   <a href = "https://instagram.com/yo_soy_shantanu" target = "blank">
     <img align = "center" src = "https://img.icons8.com/fluency/96/000000/instagram-new.png" alt = "yo_soy_shantanu" height = "40" width = "40"/>
