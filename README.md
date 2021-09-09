@@ -15,7 +15,7 @@
   </a>
   <a href = "https://twitter.com/ShantanuUmrani" target = "blank">
     <img align = "center" src="https://img.icons8.com/fluency/96/000000/twitter.png" alt = "ShantanuUmrani" height = "40" width = "40"/>
-  </a>                                                                 
+  </a>  
 </p>            
 
 <h3 align = "left"> Languages and Tools: </h3>
@@ -26,8 +26,11 @@
    <a href = " https://developer.mozilla.org/en-US/docs/Web/HTML " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt = "html" height = "40" width = "40"/>
   </a>
-   <a href = " https://www.python.org/" target = "blank">
+   <a href = " https://developer.mozilla.org/en-US/docs/Web/CSS " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/css3.png" alt = "css" height = "40" width = "40"/>
+  </a>
+  <a href = " https://www.mysql.com/ " target = "blank">
+  <img align = "center" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" alt = "MySQL" height = "40" width = "40"/>
   </a>
 </p>  
 
