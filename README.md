@@ -65,9 +65,6 @@
   <a href = " https://numpy.org/ " target = "blank">
   <img align = "center" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" alt = "Numpy" height = "35" width = "80"/>
   </a>
-  <a href = " https://numpy.org/ " target = "blank">
-  <img align = "center" src="https://img.shields.io/badge/Matplotlib-013243.svg?logo=matplotlib&logoColor=white" alt = "Matplotlib" height = "35" width = "80"/>
-  </a>
 </p> 
 
 <h3 align = "left"> Databases and Cloud Hosting: </h3>
