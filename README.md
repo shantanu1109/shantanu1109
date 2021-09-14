@@ -69,7 +69,7 @@
   <img align = "center" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" alt = "Numpy" height = "35" width = "80"/>
   </a>
   <a href = " https://numpy.org/ " target = "blank">
-  <img align = "center" src="https://iconape.com/scikit-learn-logo-logo-icon-svg-png.html" alt = "Numpy" height = "35" width = "80"/>
+  <img align = "center" src="https://iconape.com/scikit-learn-logo-logo-icon-svg-png.html" alt = "Scikit-learn" height = "35" width = "80"/>
   </a>
 </p> 
 
