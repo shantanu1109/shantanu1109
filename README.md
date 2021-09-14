@@ -42,3 +42,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanu1109&show_icons=true&locale=en" alt="shantanu1109" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu1109&" alt="shantanu1109" /></p>
+
+
+<p align = "center">
+  <img src = "">
+ 
+  <img src = "">
+
+</p>
+
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu1109&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=shantanu1109&theme=redical">
+</p>  
+
+
+
+
