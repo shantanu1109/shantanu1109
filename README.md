@@ -25,7 +25,7 @@
   </a>  
 </p>            
 
-<h3 align = "center"> Programming Languages: </h3>
+<h3 align = "left"> Programming Languages: </h3>
 <p align = "left">
   <a href = " https://www.python.org/ " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/python--v1.png" alt = "python" height = "40" width = "40"/>
@@ -38,15 +38,15 @@
   </a>
 </p>  
 
-<h3 align = "center"> Frameworks and Libraries: </h3>
-<p align = "center">
+<h3 align = "left"> Frameworks and Libraries: </h3>
+<p align = "left">
 <a href = " https://www.tensorflow.org/ " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/tensorflow.png" alt = "Tensorflow" height = "40" width = "40"/>
   </a>
 </p> 
 
-<h3 align = "center"> Databases and Cloud Hosting: </h3>
-<p align = "center">
+<h3 align = "left"> Databases and Cloud Hosting: </h3>
+<p align = "left">
   <a href = " https://g.co/kgs/qAvAmE " target = "blank">
   <img align = "center" src="https://img.icons8.com/ios-filled/96/000000/github.png" alt = "Github" height = "40" width = "40"/>
   </a>
