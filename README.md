@@ -43,9 +43,12 @@
 
 <h3 align = "left"> Frameworks and Libraries: </h3>
 <p align = "left">
-<a href = " https://www.tensorflow.org/ " target = "blank">
+  <a href = " https://www.tensorflow.org/ " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/tensorflow.png" alt = "Tensorflow" height = "40" width = "40"/>
   </a>
+  <a href = " https://pandas.pydata.org/ " target = "blank">
+  <img align = "center" src="https://commons.wikimedia.org/wiki/File:Pandas_mark.svg" alt = "Pandas" height = "40" width = "40"/>
+  </a> 
 </p> 
 
 <h3 align = "left"> Databases and Cloud Hosting: </h3>
