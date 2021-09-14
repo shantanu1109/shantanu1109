@@ -68,6 +68,9 @@
   <a href = " https://numpy.org/ " target = "blank">
   <img align = "center" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" alt = "Numpy" height = "35" width = "80"/>
   </a>
+  <a href = " https://numpy.org/ " target = "blank">
+  <img align = "center" src="https://gist.github.com/mwaskom/7eb7d01d9aa25ea83894293027d12a8c" alt = "Seaborn" height = "35" width = "80"/>
+  </a>
 </p> 
 
 <h3 align = "left"> Databases and Cloud Hosting: </h3>
