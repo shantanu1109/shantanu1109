@@ -94,6 +94,7 @@
 </p>  
 
 <h3 align = "center"> Snake Eating my Contribution Graph! </h3>
+
 <p align = "center">
 ![snake gif](https://github.com/shantanu1109/shantanu1109/blob/output/github-contribution-grid-snake.gif)
 </p>
