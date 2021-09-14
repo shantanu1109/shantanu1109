@@ -47,13 +47,13 @@
   <img align = "center" src="https://img.icons8.com/color/96/000000/tensorflow.png" alt = "Tensorflow" height = "40" width = "40"/>
   </a>
   <a href = " https://pandas.pydata.org/ " target = "blank">
-  <img align = "center" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt = "Pandas" height = "40" width = "80"/>
+  <img align = "center" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt = "Pandas" height = "35" width = "80"/>
   </a>
   <a href = " https://keras.io/ " target = "blank">
-  <img align = "center" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white" alt = "Keras" height = "40" width = "80"/>
+  <img align = "center" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white" alt = "Keras" height = "35" width = "80"/>
   </a>
   <a href = " https://numpy.org/ " target = "blank">
-  <img align = "center" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" alt = "Numpy" height = "40" width = "80"/>
+  <img align = "center" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" alt = "Numpy" height = "35" width = "80"/>
   </a>
 </p> 
 
@@ -73,7 +73,7 @@
   <img align = "center" src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" alt = "Visual Studio" height = "40" width = "40"/>
   </a>
    <a href = " https://jupyter.org/ " target = "blank">
-  <img align = "center" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" alt = "Jupyter Notebook" height = "40" width = "40"/>
+  <img align = "center" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" alt = "Jupyter Notebook" height = "35" width = "80"/>
   </a>
 </p>
  
