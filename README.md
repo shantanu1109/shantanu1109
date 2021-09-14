@@ -60,6 +60,13 @@
   <img align = "center" src="" alt = "MySQL" height = "40" width = "40"/>
   </a>
 </p> 
+
+<h3 align = "left"> Software and Tools: </h3>
+<p align = "left">
+   <a href = " https://visualstudio.microsoft.com/ " target = "blank">
+  <img align = "center" src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" alt = "Visual Studio" height = "40" width = "40"/>
+  </a>
+</p>
  
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=shantanu1109&show_icons=true&theme=radical&line_height=27">
