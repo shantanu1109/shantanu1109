@@ -2,8 +2,8 @@
 
 <h2 align = "center"> A passionate Data Analyst & Python Developer </h2>
 
-- 🌱 I’m currently working on ** Data Analysis, Data Science **
-- 📫 How to reach me ** umranishantanu@gmail.com **
+- 🌱 I’m currently working on **Data Analysis, Data Science**
+- 📫 How to reach me **umranishantanu@gmail.com**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖**
 <p align="center">
  <img src="https://badges.pufler.dev/visits/shantanu1109/shantanu1109"/>
