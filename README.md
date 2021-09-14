@@ -37,12 +37,10 @@
   </a>
 </p>  
 
-
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=shantanu1109&show_icons=true&locale=en&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=shantanu1109&show_icons=true&theme=radical&line_height=27">
  
-  <img src = "https://github-readme-stats.vercel.app/api?username=shantanu1109&show_icons=true&locale=en">
-
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu1109&theme=radical">
 </p>
 
 <p align = "center">
