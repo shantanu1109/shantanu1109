@@ -57,7 +57,7 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu1109&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=shantanu1109&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=shantanu1109&theme=dracula&layout=compact&title_color=FF69B4">
 </p>  
 
 
