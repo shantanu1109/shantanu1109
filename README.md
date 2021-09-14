@@ -25,7 +25,7 @@
   </a>  
 </p>            
 
-<h3 align = "left"> Languages and Tools: </h3>
+<h3 align = "center"> Programming Languages: </h3>
 <p align = "left">
   <a href = " https://www.python.org/ " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/python--v1.png" alt = "python" height = "40" width = "40"/>
@@ -36,17 +36,25 @@
    <a href = " https://developer.mozilla.org/en-US/docs/Web/CSS " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/css3.png" alt = "css" height = "40" width = "40"/>
   </a>
-  <a href = " https://www.mysql.com/ " target = "blank">
-  <img align = "center" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" alt = "MySQL" height = "40" width = "40"/>
-  </a>
-  <a href = " https://www.tensorflow.org/ " target = "blank">
+</p>  
+
+<h3 align = "center"> Frameworks and Libraries: </h3>
+<p align = "center">
+<a href = " https://www.tensorflow.org/ " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/tensorflow.png" alt = "Tensorflow" height = "40" width = "40"/>
   </a>
+</p> 
+
+<h3 align = "center"> Databases and Cloud Hosting: </h3>
+<p align = "center">
   <a href = " https://g.co/kgs/qAvAmE " target = "blank">
   <img align = "center" src="https://img.icons8.com/ios-filled/96/000000/github.png" alt = "Github" height = "40" width = "40"/>
   </a>
-</p>  
-
+  <a href = " https://www.mysql.com/ " target = "blank">
+  <img align = "center" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" alt = "MySQL" height = "40" width = "40"/>
+  </a>
+</p> 
+ 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=shantanu1109&show_icons=true&theme=radical&line_height=27">
  
