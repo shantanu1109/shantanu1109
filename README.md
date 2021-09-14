@@ -95,5 +95,5 @@
 
 <h3 align = "center"> Snake Eating my Contribution Graph! </h3>
 
-![snake gif](https://github.com/shantanu1109/shantanu1109/blob/output/github-contribution-grid-snake.gif) 
+![snake gif](https://github.com/shantanu1109/shantanu1109/blob/output/github-contribution-grid-snake.gif&theme=dracula&layout=compact&title_color=FF69B4) 
 
