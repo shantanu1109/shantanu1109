@@ -5,6 +5,13 @@
 - 🌱 I’m currently learning ** Data Analysis, Data Science, Tableau **
 - 📫 How to reach me ** umranishantanu@gmail.com **
 
+<p align="center">
+ <img src="https://badges.pufler.dev/visits/shantanu1109&theme=radical"/>
+ <img src="https://badges.pufler.dev/years/shantanu1109"/>
+ <img src="https://badges.pufler.dev/repos/shantanu1109"/>
+ <img src="https://badges.pufler.dev/commits/monthly/shantanu1109"/>
+</p>
+
 <h3 align = "left"> Connect with me: </h3>
 <p align = "left">
   <a href = "https://www.linkedin.com/in/shantanu-umrani-4137a1168/" target = "blank">
