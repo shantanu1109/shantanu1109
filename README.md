@@ -4,7 +4,10 @@
 
 - 🌱 I’m currently working on **Data Analysis, Data Science**
 - 📫 How to reach me **umranishantanu@gmail.com**
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖**
+- 💬 Ask me about ...
+- 😄 Pronounce : **𝙷𝚎/𝙷𝚒𝚖**
+- ⚡ Fun fact: ...
+
 <p align="center">
  <img src="https://badges.pufler.dev/visits/shantanu1109/shantanu1109"/>
  <img src="https://badges.pufler.dev/years/shantanu1109"/>
