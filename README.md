@@ -35,17 +35,21 @@
 <p align = "left">
   <a href = " https://www.python.org/ " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/python--v1.png" alt = "python" height = "40" width = "40"/>
+  </a>   
+  <a href = " https://g.co/kgs/LpJMy4 " target = "blank">
+  <img align = "center" src="https://img.icons8.com/color/96/000000/sql.png" alt = "sql" height = "40" width = "40"/>
   </a>
-   <a href = " https://developer.mozilla.org/en-US/docs/Web/HTML " target = "blank">
+</p>  
+
+<h3 align = "left"> Markup Languages: </h3>
+<p align = "left">
+  <a href = " https://developer.mozilla.org/en-US/docs/Web/HTML " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt = "html" height = "40" width = "40"/>
   </a>
    <a href = " https://developer.mozilla.org/en-US/docs/Web/CSS " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/css3.png" alt = "css" height = "40" width = "40"/>
   </a>
-   <a href = " https://g.co/kgs/LpJMy4 " target = "blank">
-  <img align = "center" src="https://img.icons8.com/color/96/000000/sql.png" alt = "sql" height = "40" width = "40"/>
-  </a>
-</p>  
+</p>
 
 <h3 align = "left"> Frameworks and Libraries: </h3>
 <p align = "left">
