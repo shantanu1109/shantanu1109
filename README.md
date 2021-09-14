@@ -49,18 +49,12 @@
   <a href = " https://pandas.pydata.org/ " target = "blank">
   <img align = "center" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt = "Pandas" height = "40" width = "80"/>
   </a>
-  <a href = " https://pandas.pydata.org/ " target = "blank">
+  <a href = " https://keras.io/ " target = "blank">
   <img align = "center" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white" alt = "Keras" height = "40" width = "80"/>
   </a>
-  <a href = " https://pandas.pydata.org/ " target = "blank">
-  <img align = "center" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt = "Mtplotlib" height = "40" width = "80"/>
+  <a href = " https://numpy.org/ " target = "blank">
+  <img align = "center" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" alt = "Numpy" height = "40" width = "80"/>
   </a>
-  <a href = " https://pandas.pydata.org/ " target = "blank">
-  <img align = "center" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt = "Seaborn" height = "40" width = "80"/>
-  </a>
-  <a href = " https://pandas.pydata.org/ " target = "blank">
-  <img align = "center" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt = "Sklearn" height = "40" width = "80"/>
-  </a>  
 </p> 
 
 <h3 align = "left"> Databases and Cloud Hosting: </h3>
@@ -77,6 +71,9 @@
 <p align = "left">
    <a href = " https://visualstudio.microsoft.com/ " target = "blank">
   <img align = "center" src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" alt = "Visual Studio" height = "40" width = "40"/>
+  </a>
+   <a href = " https://jupyter.org/ " target = "blank">
+  <img align = "center" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" alt = "Jupyter Notebook" height = "40" width = "40"/>
   </a>
 </p>
  
