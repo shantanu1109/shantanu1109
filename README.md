@@ -42,6 +42,9 @@
   <a href = " https://www.tensorflow.org/ " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/tensorflow.png" alt = "Tensorflow" height = "40" width = "40"/>
   </a>
+  <a href = " https://g.co/kgs/qAvAmE " target = "blank">
+  <img align = "center" src="https://img.icons8.com/ios-filled/96/000000/github.png"/>"/>" alt = "Github" height = "40" width = "40"/>
+  </a>
 </p>  
 
 <p align = "center">
