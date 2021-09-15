@@ -91,6 +91,9 @@
    <a href = " https://jupyter.org/ " target = "blank">
   <img align = "center" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" alt = "Jupyter Notebook" height = "35" width = "80"/>
   </a>
+    <a href = " https://www.sublimetext.com/ " target = "blank">
+  <img align = "center" src="https://img.icons8.com/fluency/96/000000/sublime-text.png" alt = "Sublime Text Editor" height = "40" width = "40"/>
+  </a>
 </p>
  
 <p align = "center">
