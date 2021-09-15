@@ -42,6 +42,9 @@
   <a href = " https://www.python.org/ " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/python--v1.png" alt = "python" height = "40" width = "40"/>
   </a>   
+  <a href = " https://www.r-project.org/about.html " target = "blank">
+  <img align = "center" src="https://img.icons8.com/windows/96/000000/r-project.png" alt = "python" height = "40" width = "40"/>
+  </a>
 </p>  
 
 <h3 align = "left"> Markup Languages: </h3>
