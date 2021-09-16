@@ -32,6 +32,9 @@
   <a href = "https://leetcode.com/umranishantanu" target = "blank">
     <img align = "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt = "umranishantanu" height = "40" width = "40"/>
   </a> 
+  <a href = "https://www.codechef.com/users/shantanu1109" target = "blank">
+    <img align = "center" src="https://code.iconify.design/2/2.0.3/iconify.min.js" alt = "shantanu1109" height = "40" width = "40"/>
+  </a> 
 </p>            
 
 <h3 align = "left"> Programming Languages: </h3>
