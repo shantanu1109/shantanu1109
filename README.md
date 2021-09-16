@@ -17,6 +17,19 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shantanu1109" alt="shantanu1109" /></a> </p>
 
+# About Rank
+
+Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
+
+|  Rank  |  Description  |
+| ---- | ---- |
+|  SSS, SS, S  | You are at a hard to reach rank. You can brag.  |
+|  AAA, AA, A  | You will reach the rank if you do your best. Let's aim here first.  |
+|  B, C  | You are in a growing process.  |
+| UNKNOWN | You have not yet taken action. Let's act first. |
+| SECRET | The rank is very rare. The trophy will not be displayed until the conditions are met. |
+
+--------------------------------------------------------------------------------------------------------------------------
 
 <h3 align = "left"> Connect with me: </h3>
 <p align = "left">
