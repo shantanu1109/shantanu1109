@@ -18,7 +18,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shantanu1109" alt="shantanu1109" /></a> </p>
 
 # About Rank
-<p align="center"
+<p align="center">
 Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
 
 |  Rank  |  Description  |
