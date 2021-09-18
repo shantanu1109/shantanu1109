@@ -86,14 +86,26 @@
   <img align = "center" src="https://img.icons8.com/color/96/000000/tensorflow.png" alt = "Tensorflow" height = "40" width = "40"/>
   </a>
   <a href = " https://pandas.pydata.org/ " target = "blank">
-  <img align = "center" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt = "Pandas" height = "35" width = "80"/>
+  <img align = "center" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt = "Pandas" height = "40" width = "40"/>
   </a>
   <a href = " https://keras.io/ " target = "blank">
   <img align = "center" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white" alt = "Keras" height = "35" width = "80"/>
   </a>
   <a href = " https://numpy.org/ " target = "blank">
-  <img align = "center" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" alt = "Numpy" height = "35" width = "80"/>
+  <img align = "center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JRr92k_oDy42tMe3RPwfU0r_5Rk_S2jwlU2WphT94jFMCRCbjASEZ7j1wbD2CPOzx6w&usqp=CAU" alt = "Numpy" height = "40" width = "40"/>
   </a>
+ <a href="https://matplotlib.org/" target="_blank">
+ <img align  = "center" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="Matplotlib" width="40" height="40"/> 
+ </a>
+ <a href="https://seaborn.pydata.org/" target="_blank">
+  <img align = "center" src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="seaborn" width="40" height="40"/> 
+ </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+   <img align = "center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+ </a>
+ <a href="https://www.scipy.org/" target= "blank"> 
+  <img align = "center" src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/> 
+ </a>
 </p> 
 
 <h3 align = "left"> Databases and Cloud Hosting: </h3>
