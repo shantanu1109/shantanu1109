@@ -157,3 +157,11 @@
 
 ![snake gif](https://github.com/shantanu1109/shantanu1109/blob/output/github-contribution-grid-snake.gif) 
 
+
+<p align="center">
+  Made with :heart: &nbsp;
+  <br />
+  <br />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+
