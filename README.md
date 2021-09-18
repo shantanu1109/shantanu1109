@@ -1,10 +1,10 @@
 <h1 align = "center"> Hi 👋, I'm Shantanu Umrani </h1>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 <h2 align = "center"> A passionate Data Analyst & Python Developer </h2>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🌱 I’m currently working on **Data Analysis, Data Science**
 - 📫 How to reach me **umranishantanu@gmail.com**
