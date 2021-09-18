@@ -121,11 +121,13 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
-<p align = "center">
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=shantanu1109&show_icons=true&theme=radical&line_height=27">
  
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu1109&theme=radical">
-</p>
+</td>
 
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu1109&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
