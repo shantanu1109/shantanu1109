@@ -134,6 +134,8 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=shantanu1109&theme=dracula&layout=compact&title_color=FF69B4">
 </p>  
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <h3 align = "center"> Snake Eating my Contribution Graph! </h3>
 
 ![snake gif](https://github.com/shantanu1109/shantanu1109/blob/output/github-contribution-grid-snake.gif) 
