@@ -159,7 +159,8 @@
 
 
 <p align="center">
-  Made with :heart: &nbsp; by Shantanu Umrani
+  Made with :heart: &nbsp;by Shantanu Umrani
+  <br />
   <br />
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
