@@ -89,7 +89,7 @@
   <img align = "center" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt = "Pandas" height = "40" width = "40"/>
   </a>
   <a href = " https://keras.io/ " target = "blank">
-  <img align = "center" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white" alt = "Keras" height = "35" width = "80"/>
+  <img align = "center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt = "Keras" height = "35" width = "80"/>
   </a>
   <a href = " https://numpy.org/ " target = "blank">
   <img align = "center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JRr92k_oDy42tMe3RPwfU0r_5Rk_S2jwlU2WphT94jFMCRCbjASEZ7j1wbD2CPOzx6w&usqp=CAU" alt = "Numpy" height = "40" width = "40"/>
