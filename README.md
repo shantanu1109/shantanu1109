@@ -52,7 +52,7 @@
 </p>            
 
 
-<img align="right" width=1000px height=1000px alt="side_sticker" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FAngelicPhysicalElectriceel-size_restricted.gif&imgrefurl=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fdragon%2Bball%2Bsuper%2Bmovie%2B-%2Bbroly%2Bvs.%2Bgogeta&tbnid=6-G9R3oSuS2UmM&vet=12ahUKEwjT-OPbhojzAhVsn0sFHV1SAYQQMygKegUIARCXAg..i&docid=obQeYfL7ODl0FM&w=860&h=484&q=gogeta%20gif&ved=2ahUKEwjT-OPbhojzAhVsn0sFHV1SAYQQMygKegUIARCXAg" />
+<img align="right" width=100px height=100px alt="side_sticker" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FAngelicPhysicalElectriceel-size_restricted.gif&imgrefurl=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fdragon%2Bball%2Bsuper%2Bmovie%2B-%2Bbroly%2Bvs.%2Bgogeta&tbnid=6-G9R3oSuS2UmM&vet=12ahUKEwjT-OPbhojzAhVsn0sFHV1SAYQQMygKegUIARCXAg..i&docid=obQeYfL7ODl0FM&w=860&h=484&q=gogeta%20gif&ved=2ahUKEwjT-OPbhojzAhVsn0sFHV1SAYQQMygKegUIARCXAg" />
 
 <h3 align = "left"> Programming Languages: </h3>
 <p align = "left">
