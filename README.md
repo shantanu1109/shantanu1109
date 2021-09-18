@@ -53,6 +53,8 @@
 
 <img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+<iframe src="https://giphy.com/embed/uGz9OvQL8eSSu47pCi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nft-sphere-art-uGz9OvQL8eSSu47pCi">via GIPHY</a></p>
+
 <h3 align = "left"> Programming Languages: </h3>
 <p align = "left">
   <a href = " https://isocpp.org/ " target = "blank">
