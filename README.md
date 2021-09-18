@@ -1,5 +1,7 @@
 <h1 align = "center"> Hi 👋, I'm Shantanu Umrani </h1>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <h2 align = "center"> A passionate Data Analyst & Python Developer </h2>
 
 - 🌱 I’m currently working on **Data Analysis, Data Science**
