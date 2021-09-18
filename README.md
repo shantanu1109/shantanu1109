@@ -29,7 +29,7 @@
 | UNKNOWN | You have not yet taken action. Let's act first. |
 | SECRET | The rank is very rare. The trophy will not be displayed until the conditions are met. |
 
---------------------------------------------------------------------------------------------------------------------------
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align = "left"> Connect with me: </h3>
 <p align = "left">
@@ -116,6 +116,8 @@
   <img align = "center" src="https://img.icons8.com/fluency/96/000000/sublime-text.png" alt = "Sublime Text Editor" height = "40" width = "40"/>
   </a>
 </p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=shantanu1109&show_icons=true&theme=radical&line_height=27">
