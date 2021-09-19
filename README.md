@@ -13,6 +13,7 @@
 <p align="center">
  <img src="https://badges.pufler.dev/visits/shantanu1109/shantanu1109"/>
  <img src="https://badges.pufler.dev/years/shantanu1109"/>
+ <img src="https://badges.pufler.dev/repos/shantanu1109"/>
  <img src="https://badges.pufler.dev/commits/monthly/shantanu1109"/>
 </p>
 
