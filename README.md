@@ -41,10 +41,7 @@
   </a>
   <a href = "https://twitter.com/ShantanuUmrani" target = "blank">
     <img align = "center" src="https://img.icons8.com/fluency/96/000000/twitter.png" alt = "ShantanuUmrani" height = "40" width = "40"/>
-  </a> 
-  <a href = "https://leetcode.com/umranishantanu" target = "blank">
-    <img align = "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt = "umranishantanu" height = "40" width = "40"/>
-  </a> 
+  </a>  
  <a href = "https://www.codechef.com/users/shantanu1109" target = "blank">
     <img align = "center" src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt = "shantanu1109" height = "100" width = "100"/>
   </a> 
