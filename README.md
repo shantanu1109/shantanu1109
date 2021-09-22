@@ -147,8 +147,8 @@
 
 # Certifications 
 
-|-|-|
 | Course Name | Certificate Link |
+| ----- | ----- |
 
 
 <p align="center">
