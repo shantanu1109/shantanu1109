@@ -35,9 +35,6 @@
 
 <h3 align = "left"> Programming Languages: </h3>
 <p align = "left">
-  <a href = " https://isocpp.org/ " target = "blank">
-  <img align = "center" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt = "C++" height = "40" width = "40"/>
-  </a> 
   <a href = " https://www.python.org/ " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/python--v1.png" alt = "python" height = "40" width = "40"/>
   </a>   
