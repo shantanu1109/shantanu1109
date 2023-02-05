@@ -18,9 +18,6 @@
 <p align = "left">
   <a href = "https://www.linkedin.com/in/shantanu-umrani-4137a1168/" target = "blank">
     <img align = "center" src = "https://img.icons8.com/fluency/96/000000/linkedin.png" alt = "shantanu-umrani" height = "40" width = "40"/>
-  </a>
- <a href = "https://www.codechef.com/users/shantanu1109" target = "blank">
-    <img align = "center" src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt = "shantanu1109" height = "100" width = "100"/>
   </a> 
 
 </p>            
