@@ -28,9 +28,6 @@
 <p align = "left">
   <a href="https://www.python.org/" target+"_blank" ><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="20em">
   </a> 
-  <a href = " https://www.r-project.org/about.html " target = "blank">
-  <img align = "center" src="https://img.icons8.com/windows/96/000000/r-project.png" alt = "python" height = "40" width = "40"/>
-  </a>
 </p>  
 
 <h3 align = "left"> Markup Languages: </h3>
