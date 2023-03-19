@@ -32,12 +32,10 @@
 
 <h3 align = "left"> Markup Languages: </h3>
 <p align = "left">
-  <a href = " https://developer.mozilla.org/en-US/docs/Web/HTML " target = "blank">
-  <img align = "center" src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt = "html" height = "40" width = "40"/>
-  </a>
-   <a href = " https://developer.mozilla.org/en-US/docs/Web/CSS " target = "blank">
-  <img align = "center" src="https://img.icons8.com/color/96/000000/css3.png" alt = "css" height = "40" width = "40"/>
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target+"_blank" ><img alt="HTML" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target+"_blank" ><img alt="CSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=">
+  </a> 
 </p>
 
 <h3 align = "left"> Frameworks and Libraries: </h3>
