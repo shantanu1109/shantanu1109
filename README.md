@@ -18,10 +18,11 @@
 
 <h3 align = "left"> Connect with me: </h3>
 <p align = "left">
+  <a href="https://www.linkedin.com/in/shantanu-umrani-4137a1168/" target+"_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em">
+  </a>
   <a href = "https://www.linkedin.com/in/shantanu-umrani-4137a1168/" target = "blank">
     <img align = "center" src = "https://img.icons8.com/fluency/96/000000/linkedin.png" alt = "shantanu-umrani" height = "40" width = "40"/>
   </a> 
-
 </p>           
 
 <img align="right" width=400px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
