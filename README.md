@@ -38,9 +38,6 @@
    <a href = " https://developer.mozilla.org/en-US/docs/Web/CSS " target = "blank">
   <img align = "center" src="https://img.icons8.com/color/96/000000/css3.png" alt = "css" height = "40" width = "40"/>
   </a>
-   <a href = " https://g.co/kgs/LpJMy4 " target = "blank">
-  <img align = "center" src="https://img.icons8.com/color/96/000000/sql.png" alt = "sql" height = "40" width = "40"/>
-  </a>
 </p>
 
 <h3 align = "left"> Frameworks and Libraries: </h3>
