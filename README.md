@@ -54,6 +54,12 @@
   </a>
   <a href="https://www.scipy.org/" target+"_blank" ><img alt="SciPy" src="https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=">
   </a>
+  <a href="https://flask.palletsprojects.com/en/2.2.x/" target+"_blank" ><img alt="Flask" src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=">
+  </a>
+  <a href="https://www.djangoproject.com/" target+"_blank" ><img alt="Django" src="https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=">
+  </a>
+  <a href="https://streamlit.io/" target+"_blank" ><img alt="Streamlit" src="https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=">
+  </a>
 </p> 
 
 <h3 align = "left"> Databases and Cloud Hosting: </h3>
