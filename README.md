@@ -18,7 +18,7 @@
 
 <h3 align = "left"> Connect with me: </h3>
 <p align = "left">
-  <a href="https://www.linkedin.com/in/shantanu-umrani-4137a1168/" target+"_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em">
+  <a href="https://www.linkedin.com/in/shantanu-umrani-4137a1168/" target+"_blank" ><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" height="25em">
   </a>
 </p>           
 
