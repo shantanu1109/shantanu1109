@@ -40,30 +40,18 @@
 
 <h3 align = "left"> Frameworks and Libraries: </h3>
 <p align = "left">
-  <a href = " https://www.tensorflow.org/ " target = "blank">
-  <img align = "center" src="https://img.icons8.com/color/96/000000/tensorflow.png" alt = "Tensorflow" height = "40" width = "40"/>
+  <a href="https://pandas.pydata.org/" target+"_blank" ><img alt="Pandas" src="https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=">
+  </a> 
+  <a href="https://numpy.org/" target+"_blank" ><img alt="NumPy" src="https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=">
   </a>
-  <a href = " https://pandas.pydata.org/ " target = "blank">
-  <img align = "center" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt = "Pandas" height = "40" width = "40"/>
+  <a href="https://keras.io/" target+"_blank" ><img alt="Keras" src="https://img.shields.io/static/v1?style=for-the-badge&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=">
   </a>
-  <a href = " https://keras.io/ " target = "blank">
-  <img align = "center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt = "Keras" height = "40" width = "40"/>
+  <a href="https://www.tensorflow.org/" target+"_blank" ><img alt="TensorFlow" src="https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=">
   </a>
-  <a href = " https://numpy.org/ " target = "blank">
-  <img align = "center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JRr92k_oDy42tMe3RPwfU0r_5Rk_S2jwlU2WphT94jFMCRCbjASEZ7j1wbD2CPOzx6w&usqp=CAU" alt = "Numpy" height = "40" width = "40"/>
+  <a href="https://scikit-learn.org/" target+"_blank" ><img alt="Scikit-Learn" src="https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=">
   </a>
- <a href="https://matplotlib.org/" target="_blank">
- <img align  = "center" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="Matplotlib" width="40" height="40"/> 
- </a>
- <a href="https://seaborn.pydata.org/" target="_blank">
-  <img align = "center" src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="seaborn" width="40" height="40"/> 
- </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-   <img align = "center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
- </a>
- <a href="https://www.scipy.org/" target= "blank"> 
-  <img align = "center" src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/> 
- </a>
+  <a href="https://www.scipy.org/" target+"_blank" ><img alt="SciPy" src="https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=">
+  </a>
 </p> 
 
 <h3 align = "left"> Databases and Cloud Hosting: </h3>
