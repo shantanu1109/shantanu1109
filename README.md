@@ -26,7 +26,7 @@
 
 <h3 align = "left"> Programming Languages: </h3>
 <p align = "left">
-  <a href="https://www.python.org/" target+"_blank" ><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="20em">
+  <a href="https://www.python.org/" target+"_blank" ><img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=">
   </a> 
 </p>  
 
