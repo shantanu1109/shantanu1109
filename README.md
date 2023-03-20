@@ -22,7 +22,7 @@
   </a>
 </p>           
 
-<img align="right" width=400px height=400px alt="side_sticker" src="https://giphy.com/embed/uGz9OvQL8eSSu47pCi" />
+<img align="right" width=480px height=480px alt="side_sticker" src="https://giphy.com/embed/xTiTnwtxXU2SbrTsmA" />
 
 <h3 align = "left"> Programming Languages: </h3>
 <p align = "left">
