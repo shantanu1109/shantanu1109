@@ -22,7 +22,7 @@
   </a>
 </p>           
 
-<img align="right" width=400px height=400px alt="side_sticker" src="https://giphy.com/gifs/nft-sphere-art-uGz9OvQL8eSSu47pCi" />
+<img align="right" width=400px height=400px alt="side_sticker" src="https://giphy.com/embed/uGz9OvQL8eSSu47pCi" />
 
 <h3 align = "left"> Programming Languages: </h3>
 <p align = "left">
