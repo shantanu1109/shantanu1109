@@ -22,7 +22,7 @@
   </a>
 </p>           
 
-<img align="right" width=480px height=480px alt="side_sticker" src="https://giphy.com/embed/xTiTnwtxXU2SbrTsmA" />
+<iframe align="right" alt="side_sticker" src="https://giphy.com/embed/xTiTnwtxXU2SbrTsmA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-animation-trip-xTiTnwtxXU2SbrTsmA">via GIPHY</a></p>
 
 <h3 align = "left"> Programming Languages: </h3>
 <p align = "left">
