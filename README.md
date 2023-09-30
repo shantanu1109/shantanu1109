@@ -12,8 +12,6 @@
 - 😄 Pronounce : **𝙷𝚎/𝙷𝚒𝚖**
 - ⚡ Fun fact: ...
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shantanu1109" alt="shantanu1109" /></a> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/shantanu1109/github-profile-trophy)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
