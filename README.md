@@ -79,6 +79,10 @@
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantanu1109&show_icons=true&theme=transparent&line_height=27">
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <p align = "center">
   <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=shantanu1109&show_icons=true&theme=radical&line_height=27">
@@ -91,10 +95,7 @@
 </p> 
 
 
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
 
 <p align="center"> 
   Visitor count<br>
