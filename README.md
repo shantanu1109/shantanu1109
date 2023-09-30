@@ -80,7 +80,9 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantanu1109&show_icons=true&theme=transparent&line_height=27">
+<div style="text-align:center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantanu1109&show_icons=true&theme=radical&line_height=27" alt="Profile Summary">
+</div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
