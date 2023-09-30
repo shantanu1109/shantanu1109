@@ -93,11 +93,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h3 align = "center"> Snake Eating my Contribution Graph! </h3>
-
-![Snake animation](https://github.com/shantanu1109/shantanu1109/blob/output/github-contribution-grid-snake.svg) 
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center"> 
   Visitor count<br>
