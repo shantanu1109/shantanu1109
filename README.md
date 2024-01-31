@@ -60,15 +60,14 @@ I’m a curious-driven Data Science enthusiast who thrives on deciphering intric
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shantanu1109/count.svg" />
-</p>
+# 📈  Overall Stats:
+
+![svg](./profile-3d-contrib/profile-green-animate.svg)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  Made with :heart: &nbsp;by Shantanu Umrani
+ <h2 align="center">Made with :heart: &nbsp;by Shantanu Umrani</h2>
   <br />
   <br />
 </p>
