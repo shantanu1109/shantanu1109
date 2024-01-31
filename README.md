@@ -8,6 +8,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # 🎯 About Me :
+<p style="font-family:verdana">
+I’m a curious-driven Data Science enthusiast who thrives on deciphering intricate data puzzles and transforming them into actionable insights. I am pursuing an MTech Degree in Data Science & Analytics. I have honed my proficiency and technical versatility in crafting Machine Learning and Deep Learning techniques while seamlessly integrating Statistics and Calculus. 
+</p>
 
 </p>
 <!--social media-->
