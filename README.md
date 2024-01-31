@@ -22,7 +22,7 @@
   </a>
 
 </div>
-
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shantanu1109&theme=radical" alt="trophy">
