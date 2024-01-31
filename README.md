@@ -1,5 +1,3 @@
-<img width = 100% src = 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=shantanu1109&color=blue)
 
 <div align= "center">
