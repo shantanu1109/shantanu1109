@@ -5,14 +5,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Shantanu++Umrani...;I%E2%80%99m+Data+Enthusiast..;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
 </div>
 
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 🌱 I’m currently working on **Data Analysis, Data Science**
-- 📫 How to reach me **umranishantanu@gmail.com**
-- 💬 Ask me about ...
-- 😄 Pronounce : **𝙷𝚎/𝙷𝚒𝚖**
-- ⚡ Fun fact: ...
+# 🎯 About Me :
+
+</p>
+<!--social media-->
+<div align="center">
+
+ <a href="https://github.com/shantanu1109" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zeyadusf" height="30" width="40" />
+ </a>
+  
+<a href="https://www.linkedin.com/in/shantanu-umrani-data-enthusiast" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Zeyad Usf" height="30" width="40" />
+  </a>
+
+</div>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shantanu1109&theme=radical" alt="trophy">
