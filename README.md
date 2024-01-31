@@ -31,11 +31,12 @@ I’m a curious-driven Data Science enthusiast who thrives on deciphering intric
 
 # 🚀 Languages and Tools:
 <p align="center">
-   Languages: 
+   <h2>Languages:</h2> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,mysql,sqlite,git" />
   </a>
-  Tools: 
+  <br>
+  <h2>Tools:</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,anaconda,vscode,flask,django,heroku,docker" />
   </a>
