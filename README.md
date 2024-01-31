@@ -1,8 +1,12 @@
-<img width = 100% src = "https://camo.githubusercontent.com/2d97fc6917462d31a885631ec887824db6974df46eccea2ae131ff3ece798a0a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572">
+<img width = 100% src = 
 
-<h1 align = "center"> I'm Shantanu Umrani </h1>
+![Profile Views](https://komarev.com/ghpvc/?username=shantanu1109&color=blue)
 
-<h2 align = "center"> A passionate Data Scientist & Analyst </h2>
+<div align= "center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Shantanu++Umrani...;I%E2%80%99m+Data+Enthusiast..;Welcome+to+my+Github+Profile+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
+</div>
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
