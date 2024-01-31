@@ -46,6 +46,7 @@ I’m a curious-driven Data Science enthusiast who thrives on deciphering intric
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+# 📈  Stats:
 <div style="text-align:center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantanu1109&show_icons=true&theme=radical&line_height=27" alt="Profile Summary">
 </div>
