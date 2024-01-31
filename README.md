@@ -30,12 +30,16 @@ I’m a curious-driven Data Science enthusiast who thrives on deciphering intric
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # 🚀 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,tensorflow	)](https://skillicons.dev)
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45" />
-
-</div>
+<p align="center">
+   Languages: 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,mysql,sqlite,git" />
+  </a>
+  Tools: 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,anaconda,vscode,flask,django,heroku,docker" />
+  </a>
+</p>
 <!--3d ani-->
 
 
